@@ -1,0 +1,24 @@
+body{
+    align-items: center;
+}
+.quote{
+    font-size: 50px;
+    color: white;
+    font-style: bold;
+    padding-left: 300px;
+    font-weight: 600;
+}
+.number{
+    color: rgb(67, 122, 185);
+    font-weight: 750;
+}
+.logo{
+    font-style: italic;
+    color: rgb(76, 145, 223);
+    font-weight: 750;
+}
+.sublogo{
+    font-style: italic;
+    color: black;
+    font-weight: 600;
+}
